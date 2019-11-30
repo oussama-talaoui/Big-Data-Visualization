@@ -27,7 +27,7 @@ The practical work consists in the following exercises:
 - [X] Interactive visualization of data.
 - [X] R scripting.
 - [X] Reactive expressions with Shiny.
-- [X] Sharing applications.
+- [X] Sharing the applications:
   - [x] Sharing the Shiny app as R scripts.
   - [x] Sharing the Shiny app as a web page using ```runGitHub()```.
 - [X] Review of some examples programmed with Shiny.
