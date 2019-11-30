@@ -7,9 +7,8 @@
 | ANGULO MONTES LUIS EDUARDO| LuisEduardoAngulo         |
 | BORRERO GARCIA FRANCISCO  | Macvayne                  |
 | TAHIRI ALAOUI OUSSAMA     | oussama-talaoui           |
-|                           |                           |
 
-[Practical Work repository Github link](https://github.com/oussama-talaoui/Big-Data-Visualization)
+[Practical Work Github repository](https://github.com/oussama-talaoui/Big-Data-Visualization)
 
 ## About the Practical Work
 The objective of this practical work is to put into practice the concepts learnt
@@ -21,7 +20,6 @@ The practical work consists in the following exercises:
 
 ## First exercise: Shiny Tutorial
 
-
 - [X] Installation and configuration of the tools needed to accomplish the practical work: R, RStudio, Shiny.
 - [X] Introduction to Shiny.
 - [X] Structure and GUI of apps developed with Shiny.
@@ -31,5 +29,5 @@ The practical work consists in the following exercises:
 - [X] Reactive expressions with Shiny.
 - [X] Sharing applications.
   - [x] Sharing the Shiny app as R scripts.
-  - [x] Sharing the Shiny app as a web page using runGitHub().
+  - [x] Sharing the Shiny app as a web page using ```runGitHub()```.
 - [X] Review of some examples programmed with Shiny.
