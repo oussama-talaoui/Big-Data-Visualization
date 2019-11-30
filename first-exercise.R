@@ -36,7 +36,7 @@ install.packages("quantmod")
 runApp("stockVis")
 
 ## Shiny lesson 7
-runGitHub( "Big-Data-Visualization", "oussama-talaoui", subdir = "/stockVis")
+runGitHub("Big-Data-Visualization", "oussama-talaoui", subdir = "/stockVis")
 
 ## Shiny Example
 devtools::install_github("jcheng5/googleCharts")
