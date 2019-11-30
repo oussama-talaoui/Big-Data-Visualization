@@ -22,14 +22,14 @@ The practical work consists in the following exercises:
 ## First exercise: Shiny Tutorial
 
 
-- [X] Installation and configuration of the tools needed to accomplish the practical work: R, RStudio, Shiny
-- [X] Introduction to Shiny
-- [X] Structure and GUI of apps developed with Shiny
-- [X] Addition of new interactive controls
-- [X] Interactive visualization of data
-- [X] R scripting
-- [X] Reactive expressions with Shiny
-- [ ] Sharing applications
-  - [x] Sharing the Shiny app as R scripts
-  - [ ] Sharing the Shiny app as a web page
-- [X] Review of some examples programmed with Shiny
+- [X] Installation and configuration of the tools needed to accomplish the practical work: R, RStudio, Shiny.
+- [X] Introduction to Shiny.
+- [X] Structure and GUI of apps developed with Shiny.
+- [X] Addition of new interactive controls.
+- [X] Interactive visualization of data.
+- [X] R scripting.
+- [X] Reactive expressions with Shiny.
+- [X] Sharing applications.
+  - [x] Sharing the Shiny app as R scripts.
+  - [x] Sharing the Shiny app as a web page using runGitHub().
+- [X] Review of some examples programmed with Shiny.
