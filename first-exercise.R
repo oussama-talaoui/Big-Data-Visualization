@@ -10,19 +10,19 @@ setwd(dirname(current_path ))
 # We can make sure we are in the right directory
 print( getwd() )
 
-##LESSON-1
+## Shiny lesson 1
 runApp("App-1")
 
-##LESSON-2
+## Shiny lesson 2
 runApp("App-2")
 
-##LESSON-3
+## Shiny lesson 3
 runApp("App-3")
 
-##LESSON-4
+## Shiny lesson 4
 runApp("App-4")
 
-##LESSON-5
+## Shiny lesson 5
 install.packages(c("maps", "mapproj"))
 library(maps)
 library(mapproj)
@@ -31,6 +31,13 @@ counties <- readRDS("census-app/data/counties.rds")
 percent_map(counties$white, "darkgreen", "% White")
 runApp("census-app")
 
-##LESSON-6
+## Shiny lesson 6
 install.packages("quantmod")
 runApp("stockVis")
+
+## Shiny lesson 7
+runGitHub( "Big-Data-Visualization", "oussama-talaoui", subdir = "/stockVis")
+
+## Shiny Example
+devtools::install_github("jcheng5/googleCharts")
+runGitHub( "Big-Data-Visualization", "oussama-talaoui", subdir = "/shiny-example")
